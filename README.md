@@ -1,4 +1,3 @@
-FirstRepo
+sam-ext-numbers-panel
 =========
-
-This is my First Repository
+NumbersPanel User Extension/Custom Widget for ExtJS 4.2.0 and higer versions
